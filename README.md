@@ -21,7 +21,6 @@ Here is a look at the app in action:
 
 - **Activity Tracking:** Log your daily movements.
 - **Workout Logger:** Keep track of how often you hit the gym.
-- **Exercise Database:** Select and plan specific types of exercises.
 - **User Friendly:** Simple interface designed for quick entry during workouts.
 
 ---

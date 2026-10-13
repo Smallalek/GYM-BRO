@@ -57,6 +57,8 @@ Contributions are welcome! If you have ideas for new features:
 
 ## 📧 Contact
 
+Email:aleksandarmiladinovic0101@gmail.com
+
 Smallek - [https://github.com/Smallek](https://github.com/Smallek)
 
 Project Link: [https://github.com/Smallek/GYM-BRO](https://github.com/Smallek/GYM-BRO)

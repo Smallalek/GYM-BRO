@@ -13,7 +13,7 @@ Here is a look at the app in action:
 
 | Screen 1 | Screen 2 |
 | :---: | :---: |
-| <img src="https://github.com/Smallalek/GYM-BRO/blob/main/2.jpg" width="250"> | <img src="PASTE-LINK-TO-SECOND-IMAGE-HERE" width="250"> |
+| <img src="https://github.com/Smallalek/GYM-BRO/blob/main/2.jpg" width="250"> | <img src="https://github.com/Smallalek/GYM-BRO/blob/main/1.jpg" width="250"> |
 
 ---
 

@@ -29,7 +29,7 @@ Here is a look at the app in action:
 
 You can download the latest version of the app directly from this repository's **Releases** section.
 
-1. Go to the [**Releases**](https://github.com/Smallek/GYM-BRO/releases) page.
+1. Go to the [**Releases**](https://github.com/Smallalek/GYM-BRO/releases/tag/v1.0.0) page.
 2. Download the latest `.apk` file to your Android phone.
 3. Open the file to install it. *(Note: You may need to enable "Install from Unknown Sources" in your phone's settings).*
 

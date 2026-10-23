@@ -13,7 +13,7 @@ Here is a look at the app in action:
 
 | Screen 1 | Screen 2 | Screen 3 |
 | :---: | :---: | :---: |
-| <img width="250" src="https://github.com/user-attachments/assets/aa7be272-87a3-40c3-a0f4-dd5a7588aacd" width="250" <img src="https://github.com/user-attachments/assets/15036b1a-9250-4458-91a0-bc6bf12e8a95" width="250" />
+| <img width="250" src="https://github.com/user-attachments/assets/aa7be272-87a3-40c3-a0f4-dd5a7588aacd" width="250" src="https://github.com/user-attachments/assets/15036b1a-9250-4458-91a0-bc6bf12e8a95" width="250" />
 
 
 ---

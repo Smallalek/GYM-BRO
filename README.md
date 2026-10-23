@@ -11,10 +11,20 @@
 
 Here is a look at the app in action:
 
-| Screen 1 | Screen 2 | Screen 3 | Screen 4 | Screen 5 |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/aa7be272-87a3-40c3-a0f4-dd5a7588aacd" width="250" > | <img src="https://github.com/user-attachments/assets/15036b1a-9250-4458-91a0-bc6bf12e8a95" width="250" > |
-<img width="1080" height="2340" alt="3" src="https://github.com/user-attachments/assets/513943ed-d8aa-49e2-a3a8-adfb7a544b25" > | <img width="1080" height="2340" alt="4" src="https://github.com/user-attachments/assets/c08e8a15-07ad-459a-a0bb-42a52dfb5bb2" > | <img width="1080" height="2340" alt="5" src="https://github.com/user-attachments/assets/7cc7f631-69b4-4d54-a9d2-54b959c2f74d" />
+**Screen 1**
+<img src="https://github.com/user-attachments/assets/aa7be272-87a3-40c3-a0f4-dd5a7588aacd" width="250">
+
+**Screen 2**
+<img src="https://github.com/user-attachments/assets/15036b1a-9250-4458-91a0-bc6bf12e8a95" width="250">
+
+**Screen 3**
+<img src="https://github.com/user-attachments/assets/513943ed-d8aa-49e2-a3a8-adfb7a544b25" width="250">
+
+**Screen 4**
+<img src="https://github.com/user-attachments/assets/c08e8a15-07ad-459a-a0bb-42a52dfb5bb2" width="250">
+
+**Screen 5**
+<img src="https://github.com/user-attachments/assets/7cc7f631-69b4-4d54-a9d2-54b959c2f74d" width="250">
 
 
 

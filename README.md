@@ -61,7 +61,7 @@ Contributions are welcome! If you have ideas for new features:
 
 ## 📧 Contact
 
-
+Email - smallalekk@gmail.com
 
 Smallek - [https://github.com/Smallek](https://github.com/Smallek)
 
